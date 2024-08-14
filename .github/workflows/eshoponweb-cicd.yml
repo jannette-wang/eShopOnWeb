@@ -9,7 +9,7 @@ env:
   LOCATION: australiaeast
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: b58cee93-8c91-48df-9437-86f3b5d4eacb
-  WEBAPP-NAME: eshoponweb-webapp-az400
+  WEBAPP-NAME: az400eshoponweb
 
 
 jobs:
